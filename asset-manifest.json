@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/website-planet-/static/css/main.18d76816.css",
+    "main.js": "/website-planet-/static/js/main.ca558d11.js",
+    "static/media/earth-1.jpg": "/website-planet-/static/media/earth-1.6c02c27856ccad537b29.jpg",
+    "static/media/space.jpg": "/website-planet-/static/media/space.f5a54545b078e9b4a71f.jpg",
+    "static/media/mn-1.jpg": "/website-planet-/static/media/mn-1.fd7c1166725a59df7c49.jpg",
+    "static/media/moon-1.png": "/website-planet-/static/media/moon-1.35a96aeccae9524bbf81.png",
+    "static/media/mars-1.jpg": "/website-planet-/static/media/mars-1.126d859bedb69a179909.jpg",
+    "static/media/space2.jpg": "/website-planet-/static/media/space2.22ff6dbac55274a859dd.jpg",
+    "index.html": "/website-planet-/index.html",
+    "main.18d76816.css.map": "/website-planet-/static/css/main.18d76816.css.map",
+    "main.ca558d11.js.map": "/website-planet-/static/js/main.ca558d11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18d76816.css",
+    "static/js/main.ca558d11.js"
+  ]
+}
