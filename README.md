@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+# Website Planet
+
+<h1 align="left">This is a web template Made in:</h1>
+<p align="left">
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ 
+<h5>Web template of planets there are only two plus the moon if you want to put more you have the opportunity to edit this project</h5>
+</p>
+
+![Captura de pantalla 2022-01-26 174937](https://user-images.githubusercontent.com/32551746/151210238-c37b875f-f463-4d29-9784-63c7fc86897b.png)
+
+
+👨‍💻 Portafolio https://jairosanchezb94.github.io/portfolio-web
+
+📝 Linkedin [https://www.linkedin.com/in/jairo-sanchez-malaga/](https://www.linkedin.com/in/jairo-sanchez-malaga/)
+
+📫 How to reach me **jairosanchezb5@gmail.com**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
